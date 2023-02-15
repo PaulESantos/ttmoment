@@ -22,7 +22,7 @@ knitr::opts_chunk$set(
 [![R-CMD-check](https://github.com/PaulESantos/ttmoment/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/PaulESantos/ttmoment/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of ttmoment is to ...
+Functional traits are key characteristics of organisms that relate to their performance, ecology, and evolution. The distribution of functional traits can provide important insights into the functioning of ecosystems and the responses of organisms to environmental change. Evaluating the moments of this distribution (i.e., mean, variance, skewness, and kurtosis) is a standard approach to quantifying the shape and dispersion of the distribution. It has been widely used in ecological and evolutionary research. However, calculating these moments for functional traits in R currently has two objects which could be confusing for beginners users of R. By developing the ttmoment R library that allows for easy and efficient calculation of these moments, researchers can save time and reduce the potential for errors in their analyses.
 
 ## Installation
 
