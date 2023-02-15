@@ -9,4 +9,4 @@
 library(testthat)
 library(ttmoment)
 
-test_check("ttmoment")
+testthat::test_check("ttmoment")
