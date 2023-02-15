@@ -1,9 +1,11 @@
 Package: ttmoment
 Title: Functional Trait Moment Calculation 
 Version: 0.0.0.9
-Authors@R: 
+Authors@R: c(
     person("Paul", "Santos Andrade", , "paulefrens@gmail.com", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-0002-6635-0375"))
+           comment = c(ORCID = "0000-0002-6635-0375")),
+    person("Macroecology Lab", role = c("cph", "fnd"))
+           )
 Description: Calculates the community four ‘moments’(mean, variance, skewness, and kurtosis), useful in characterizing the distribution of traits in a community.
 License: MIT + file LICENSE
 Suggests: 
