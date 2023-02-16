@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# ttmoment <a href='https://github.com/PaulESantos/ttmoment'><img src='man/figures/logo_ttmoment.png' align="right" height="220" width="250" /></a>
+# ttmoment <a href='https://github.com/PaulESantos/ttmoment'><img src='man/figures/logo_ttmoment.jpg' align="right" height="220" width="250" /></a>
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
