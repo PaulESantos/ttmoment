@@ -1,4 +1,12 @@
+destination: docs
 url: https://paulesantos.github.io/ttmoment/
+
+authors:
+  Paul E Santos Andrade:
+    href: http://paulefrensa.rbind.io/
+
 template:
   bootstrap: 5
+  params:
+    bootswatch: journal
 
