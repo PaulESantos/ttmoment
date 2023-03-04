@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# ttmoment <a href='https://github.com/PaulESantos/ttmoment'><img src='man/figures/logo_ttmoment.jpg' align="right" height="220" width="250" /></a>
+# ttmoment <a href='https://github.com/PaulESantos/ttmoment'><img src='man/figures/ttmoment.svg' align="right" height="250" width="220" /></a>
 
 <!-- badges: start -->
 
